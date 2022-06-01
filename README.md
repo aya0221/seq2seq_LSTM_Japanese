@@ -1,1 +1,1 @@
-# seq2seq_lstm_chatbot
+# Japanese seq2seq model using LSTM (Encoder / Decoder / Preprocessing) [basic]
